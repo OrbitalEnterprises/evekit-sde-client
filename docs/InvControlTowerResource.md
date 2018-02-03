@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**purpose** | **byte[]** |  |  [optional]
+**purpose** | **Integer** |  |  [optional]
 **quantity** | **Integer** |  |  [optional]
 **minSecurityLevel** | **Double** |  |  [optional]
 **factionID** | **Integer** |  |  [optional]

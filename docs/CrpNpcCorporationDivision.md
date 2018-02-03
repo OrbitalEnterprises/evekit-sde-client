@@ -4,8 +4,8 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**size** | **byte[]** |  |  [optional]
-**divisionID** | **byte[]** |  |  [optional]
+**size** | **Integer** |  |  [optional]
+**divisionID** | **Integer** |  |  [optional]
 **corporationID** | **Integer** |  |  [optional]
 
 

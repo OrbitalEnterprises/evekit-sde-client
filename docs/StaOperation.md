@@ -4,15 +4,15 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**operationID** | **byte[]** |  |  [optional]
-**activityID** | **byte[]** |  |  [optional]
+**operationID** | **Integer** |  |  [optional]
+**activityID** | **Integer** |  |  [optional]
 **operationName** | **String** |  |  [optional]
 **description** | **String** |  |  [optional]
-**fringe** | **byte[]** |  |  [optional]
-**corridor** | **byte[]** |  |  [optional]
-**hub** | **byte[]** |  |  [optional]
-**border** | **byte[]** |  |  [optional]
-**ratio** | **byte[]** |  |  [optional]
+**fringe** | **Integer** |  |  [optional]
+**corridor** | **Integer** |  |  [optional]
+**hub** | **Integer** |  |  [optional]
+**border** | **Integer** |  |  [optional]
+**ratio** | **Integer** |  |  [optional]
 **caldariStationTypeID** | **Integer** |  |  [optional]
 **minmatarStationTypeID** | **Integer** |  |  [optional]
 **amarrStationTypeID** | **Integer** |  |  [optional]

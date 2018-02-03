@@ -11,10 +11,10 @@ Name | Type | Description | Notes
 **dockOrientationX** | **Double** |  |  [optional]
 **dockOrientationY** | **Double** |  |  [optional]
 **dockOrientationZ** | **Double** |  |  [optional]
-**operationID** | **byte[]** |  |  [optional]
-**officeSlots** | **byte[]** |  |  [optional]
+**operationID** | **Integer** |  |  [optional]
+**officeSlots** | **Boolean** |  |  [optional]
 **reprocessingEfficiency** | **Double** |  |  [optional]
-**conquerable** | **byte[]** |  |  [optional]
+**conquerable** | **Boolean** |  |  [optional]
 
 
 

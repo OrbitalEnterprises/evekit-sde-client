@@ -17,8 +17,8 @@ Name | Type | Description | Notes
 **radius** | **Double** |  |  [optional]
 **itemName** | **String** |  |  [optional]
 **security** | **Double** |  |  [optional]
-**celestialIndex** | **byte[]** |  |  [optional]
-**orbitIndex** | **byte[]** |  |  [optional]
+**celestialIndex** | **Integer** |  |  [optional]
+**orbitIndex** | **Integer** |  |  [optional]
 
 
 

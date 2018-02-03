@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**categoryID** | **byte[]** |  |  [optional]
+**categoryID** | **Integer** |  |  [optional]
 **categoryName** | **String** |  |  [optional]
 **categoryDescription** | **String** |  |  [optional]
 

@@ -8,11 +8,11 @@ Name | Type | Description | Notes
 **categoryID** | **Integer** |  |  [optional]
 **groupName** | **String** |  |  [optional]
 **iconID** | **Integer** |  |  [optional]
-**useBasePrice** | **byte[]** |  |  [optional]
-**anchored** | **byte[]** |  |  [optional]
-**anchorable** | **byte[]** |  |  [optional]
-**fittableNonSingleton** | **byte[]** |  |  [optional]
-**published** | **byte[]** |  |  [optional]
+**useBasePrice** | **Boolean** |  |  [optional]
+**anchored** | **Boolean** |  |  [optional]
+**anchorable** | **Boolean** |  |  [optional]
+**fittableNonSingleton** | **Boolean** |  |  [optional]
+**published** | **Boolean** |  |  [optional]
 
 
 

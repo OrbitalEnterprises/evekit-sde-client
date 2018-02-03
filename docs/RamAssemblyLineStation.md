@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**quantity** | **byte[]** |  |  [optional]
+**quantity** | **Integer** |  |  [optional]
 **stationTypeID** | **Integer** |  |  [optional]
 **ownerID** | **Integer** |  |  [optional]
 **solarSystemID** | **Integer** |  |  [optional]

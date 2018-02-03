@@ -11,7 +11,7 @@ Name | Type | Description | Notes
 **baseMaterialMultiplier** | **Double** |  |  [optional]
 **baseCostMultiplier** | **Double** |  |  [optional]
 **volume** | **Double** |  |  [optional]
-**activityID** | **byte[]** |  |  [optional]
+**activityID** | **Integer** |  |  [optional]
 **minCostPerHour** | **Double** |  |  [optional]
 
 

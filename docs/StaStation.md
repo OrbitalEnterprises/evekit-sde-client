@@ -9,7 +9,7 @@ Name | Type | Description | Notes
 **dockingCostPerVolume** | **Double** |  |  [optional]
 **maxShipVolumeDockable** | **Double** |  |  [optional]
 **officeRentalCost** | **Integer** |  |  [optional]
-**operationID** | **byte[]** |  |  [optional]
+**operationID** | **Integer** |  |  [optional]
 **stationTypeID** | **Integer** |  |  [optional]
 **corporationID** | **Integer** |  |  [optional]
 **solarSystemID** | **Integer** |  |  [optional]
@@ -21,7 +21,7 @@ Name | Type | Description | Notes
 **z** | **Double** |  |  [optional]
 **reprocessingEfficiency** | **Double** |  |  [optional]
 **reprocessingStationsTake** | **Double** |  |  [optional]
-**reprocessingHangarFlag** | **byte[]** |  |  [optional]
+**reprocessingHangarFlag** | **Integer** |  |  [optional]
 
 
 

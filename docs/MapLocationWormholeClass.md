@@ -5,7 +5,7 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **locationID** | **Integer** |  |  [optional]
-**wormholeClassID** | **byte[]** |  |  [optional]
+**wormholeClassID** | **Integer** |  |  [optional]
 
 
 

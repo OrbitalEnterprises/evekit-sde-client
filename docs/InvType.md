@@ -14,7 +14,7 @@ Name | Type | Description | Notes
 **portionSize** | **Integer** |  |  [optional]
 **raceID** | **Integer** |  |  [optional]
 **basePrice** | [**BigDecimal**](BigDecimal.md) |  |  [optional]
-**published** | **byte[]** |  |  [optional]
+**published** | **Boolean** |  |  [optional]
 **marketGroupID** | **Integer** |  |  [optional]
 **iconID** | **Integer** |  |  [optional]
 **soundID** | **Integer** |  |  [optional]

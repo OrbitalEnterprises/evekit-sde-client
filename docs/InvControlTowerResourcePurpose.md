@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**purpose** | **byte[]** |  |  [optional]
+**purpose** | **Integer** |  |  [optional]
 **purposeText** | **String** |  |  [optional]
 
 

@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**activityID** | **byte[]** |  |  [optional]
+**activityID** | **Integer** |  |  [optional]
 **activityName** | **String** |  |  [optional]
 **description** | **String** |  |  [optional]
 

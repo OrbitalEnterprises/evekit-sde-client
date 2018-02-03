@@ -5,13 +5,13 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **agentID** | **Integer** |  |  [optional]
-**divisionID** | **byte[]** |  |  [optional]
+**divisionID** | **Integer** |  |  [optional]
 **corporationID** | **Integer** |  |  [optional]
 **locationID** | **Integer** |  |  [optional]
-**level** | **byte[]** |  |  [optional]
+**level** | **Integer** |  |  [optional]
 **quality** | **Integer** |  |  [optional]
 **agentTypeID** | **Integer** |  |  [optional]
-**isLocator** | **byte[]** |  |  [optional]
+**locator** | **Boolean** |  |  [optional]
 
 
 

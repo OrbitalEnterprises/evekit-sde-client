@@ -4,7 +4,7 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**attributeID** | **byte[]** |  |  [optional]
+**attributeID** | **Integer** |  |  [optional]
 **attributeName** | **String** |  |  [optional]
 **description** | **String** |  |  [optional]
 **iconID** | **Integer** |  |  [optional]

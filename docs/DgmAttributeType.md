@@ -9,12 +9,12 @@ Name | Type | Description | Notes
 **description** | **String** |  |  [optional]
 **iconID** | **Integer** |  |  [optional]
 **defaultValue** | **Double** |  |  [optional]
-**published** | **byte[]** |  |  [optional]
+**published** | **Boolean** |  |  [optional]
 **displayName** | **String** |  |  [optional]
 **unitID** | **Integer** |  |  [optional]
-**stackable** | **byte[]** |  |  [optional]
-**highIsGood** | **byte[]** |  |  [optional]
-**categoryID** | **byte[]** |  |  [optional]
+**stackable** | **Boolean** |  |  [optional]
+**highIsGood** | **Boolean** |  |  [optional]
+**categoryID** | **Integer** |  |  [optional]
 
 
 
