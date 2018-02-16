@@ -1,6 +1,6 @@
 # StationApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20180110/api/ws/v20180110*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20180214/api/ws/v20180214*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
