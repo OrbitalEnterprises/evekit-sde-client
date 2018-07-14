@@ -1,6 +1,6 @@
 # CorporationApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20180508/api/ws/v20180508*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20180529/api/ws/v20180529*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
