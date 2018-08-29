@@ -8,8 +8,8 @@ Name | Type | Description | Notes
 **confiscateMinSec** | **Double** |  |  [optional]
 **fineByValue** | **Double** |  |  [optional]
 **attackMinSec** | **Double** |  |  [optional]
-**factionID** | **Integer** |  |  [optional]
 **typeID** | **Integer** |  |  [optional]
+**factionID** | **Integer** |  |  [optional]
 
 
 

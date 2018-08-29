@@ -9,8 +9,8 @@ Name | Type | Description | Notes
 **ownerID** | **Integer** |  |  [optional]
 **solarSystemID** | **Integer** |  |  [optional]
 **regionID** | **Integer** |  |  [optional]
-**assemblyLineTypeID** | **Integer** |  |  [optional]
 **stationID** | **Integer** |  |  [optional]
+**assemblyLineTypeID** | **Integer** |  |  [optional]
 
 
 

@@ -8,8 +8,8 @@ Name | Type | Description | Notes
 **fromConstellationID** | **Integer** |  |  [optional]
 **toConstellationID** | **Integer** |  |  [optional]
 **toRegionID** | **Integer** |  |  [optional]
-**toSolarSystemID** | **Integer** |  |  [optional]
 **fromSolarSystemID** | **Integer** |  |  [optional]
+**toSolarSystemID** | **Integer** |  |  [optional]
 
 
 
