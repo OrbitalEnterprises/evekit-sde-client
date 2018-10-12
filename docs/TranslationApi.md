@@ -1,6 +1,6 @@
 # TranslationApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20180917/api/ws/v20180917*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20181009/api/ws/v20181009*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

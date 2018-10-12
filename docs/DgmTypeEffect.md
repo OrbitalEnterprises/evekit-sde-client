@@ -4,8 +4,8 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**typeID** | **Integer** |  |  [optional]
 **effectID** | **Integer** |  |  [optional]
+**typeID** | **Integer** |  |  [optional]
 **_default** | **Boolean** |  |  [optional]
 
 
