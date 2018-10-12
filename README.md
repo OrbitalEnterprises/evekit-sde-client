@@ -133,7 +133,7 @@ public class AgentApiExample {
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20180827/api/ws/v20180827*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20180917/api/ws/v20180917*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
