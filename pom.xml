@@ -10,12 +10,12 @@
   <name>EveKit SDE Client</name>
   <description>Auto-gen build of Java EveKit SDE Swagger client using swagger-cli</description>
   <packaging>jar</packaging>
-  <version>1.0.0.20181009</version>
+  <version>1.0.0.20181113</version>
   <scm>
     <url>https://github.com/OrbitalEnterprises/eve-esi-client</url>
     <connection>scm:git:https://github.com/OrbitalEnterprises/evekit-sde-client.git</connection>
     <developerConnection>scm:git:https://github.com/OrbitalEnterprises/evekit-sde-client.git</developerConnection>
-    <tag>20181009</tag>
+    <tag>20181113</tag>
   </scm>
   <properties>
     <java.version>1.8</java.version>
@@ -45,7 +45,7 @@
               <goal>generate</goal>
             </goals>
             <configuration>
-              <inputSpec>https://evekit-sde.orbital.enterprises/20181009/api/ws/v20181009/swagger.json</inputSpec>
+              <inputSpec>https://evekit-sde.orbital.enterprises/20181113/api/ws/v20181113/swagger.json</inputSpec>
               <language>java</language>
               <configOptions>
                 <sourceFolder>src/gen/java/main</sourceFolder>
