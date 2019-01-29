@@ -4,8 +4,8 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**skinID** | **Integer** |  |  [optional]
 **typeID** | **Integer** |  |  [optional]
+**skinID** | **Integer** |  |  [optional]
 
 
 

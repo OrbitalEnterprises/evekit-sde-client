@@ -4,8 +4,8 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**fromRegionID** | **Integer** |  |  [optional]
 **toRegionID** | **Integer** |  |  [optional]
+**fromRegionID** | **Integer** |  |  [optional]
 
 
 
