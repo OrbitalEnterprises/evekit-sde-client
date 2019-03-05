@@ -1,6 +1,6 @@
 # WarApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20190117/api/ws/v20190117*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20190219/api/ws/v20190219*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
