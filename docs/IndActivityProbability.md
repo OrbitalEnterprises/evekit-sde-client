@@ -5,9 +5,9 @@
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **probability** | **Double** |  |  [optional]
-**typeID** | **Integer** |  |  [optional]
-**activityID** | **Integer** |  |  [optional]
 **productTypeID** | **Integer** |  |  [optional]
+**activityID** | **Integer** |  |  [optional]
+**typeID** | **Integer** |  |  [optional]
 
 
 

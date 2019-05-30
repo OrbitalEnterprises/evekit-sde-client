@@ -1,6 +1,6 @@
 # PlanetApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20190219/api/ws/v20190219*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20190516/api/ws/v20190516*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
