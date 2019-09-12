@@ -1,6 +1,6 @@
 # CertificatesApi
 
-All URIs are relative to *https://evekit-sde.orbital.enterprises/20190529/api/ws/v20190529*
+All URIs are relative to *https://evekit-sde.orbital.enterprises/20190625/api/ws/v20190625*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
